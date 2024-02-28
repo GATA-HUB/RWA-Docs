@@ -1,7 +1,15 @@
 # Table of contents
 
-* [RWA](README.md)
+* [Say Hello to RWA](README.md)
 
-## About RWA
+## Getting Started
 
-* [Project](about-rwa/project.md)
+* [Wallets](getting-started/wallets.md)
+* [How-to guids](getting-started/how-to-guids.md)
+* [FAQs](getting-started/faqs.md)
+
+## Investors
+
+* [Traders](investors/traders.md)
+* [Whales](investors/whales.md)
+* [Investment FAQs](investors/investment-faqs.md)
