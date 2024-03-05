@@ -2,19 +2,19 @@
 description: WIP
 ---
 
-# Say Hello to RWA
+# Say Hello to XYZ
 
-**What is RWA?**
-
-
-
-**Why is RWA different?**&#x20;
+**What is XYZ project?**
 
 
 
-&#x20;**What can I do on RWA?**
+**Why is XYZ different?**&#x20;
 
 
 
-**Earn TKN**
+&#x20;**What can I do on XYZ?**
+
+
+
+**Earn XYZ TKN**
 
